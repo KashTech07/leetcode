@@ -21,9 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/KashTech07/leetcode/tree/master/0812-rotate-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KashTech07/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KashTech07/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/KashTech07/leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->

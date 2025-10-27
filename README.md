@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KashTech07/leetcode/tree/master/0001-two-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KashTech07/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/KashTech07/leetcode/tree/master/0164-maximum-gap) |
 | [1072-next-greater-node-in-linked-list](https://github.com/KashTech07/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KashTech07/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KashTech07/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/KashTech07/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window

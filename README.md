@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/KashTech07/leetcode/tree/master/0164-maximum-gap) |
 | [0898-transpose-matrix](https://github.com/KashTech07/leetcode/tree/master/0898-transpose-matrix) |
 | [1072-next-greater-node-in-linked-list](https://github.com/KashTech07/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1677-matrix-diagonal-sum](https://github.com/KashTech07/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KashTech07/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Linked List
 |  |
@@ -94,4 +95,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/KashTech07/leetcode/tree/master/0898-transpose-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/KashTech07/leetcode/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->

@@ -163,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KashTech07/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KashTech07/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/KashTech07/leetcode/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/KashTech07/leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->

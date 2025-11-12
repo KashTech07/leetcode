@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/KashTech07/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KashTech07/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/KashTech07/leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
+| [2665-minimum-time-to-repair-cars](https://github.com/KashTech07/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KashTech07/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/KashTech07/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Linked List
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/KashTech07/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KashTech07/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KashTech07/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2665-minimum-time-to-repair-cars](https://github.com/KashTech07/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 ## Depth-First Search
 |  |
 | ------- |

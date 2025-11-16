@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KashTech07/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/KashTech07/leetcode/tree/master/0179-largest-number) |
 | [0560-subarray-sum-equals-k](https://github.com/KashTech07/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/KashTech07/leetcode/tree/master/0739-daily-temperatures) |
 | [0898-transpose-matrix](https://github.com/KashTech07/leetcode/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/KashTech07/leetcode/tree/master/0948-sort-an-array) |
 | [1072-next-greater-node-in-linked-list](https://github.com/KashTech07/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/KashTech07/leetcode/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/KashTech07/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/KashTech07/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/KashTech07/leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/KashTech07/leetcode/tree/master/0937-online-stock-span) |
 | [1072-next-greater-node-in-linked-list](https://github.com/KashTech07/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/KashTech07/leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KashTech07/leetcode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/KashTech07/leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/KashTech07/leetcode/tree/master/0937-online-stock-span) |
 | [1072-next-greater-node-in-linked-list](https://github.com/KashTech07/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 ## String

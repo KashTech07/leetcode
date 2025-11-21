@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/KashTech07/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/KashTech07/leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2665-minimum-time-to-repair-cars](https://github.com/KashTech07/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
+| [3221-find-the-peaks](https://github.com/KashTech07/leetcode/tree/master/3221-find-the-peaks) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KashTech07/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/KashTech07/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Linked List
@@ -238,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/KashTech07/leetcode/tree/master/0937-online-stock-span) |
+## Enumeration
+|  |
+| ------- |
+| [3221-find-the-peaks](https://github.com/KashTech07/leetcode/tree/master/3221-find-the-peaks) |
 <!---LeetCode Topics End-->

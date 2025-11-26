@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/KashTech07/leetcode/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/KashTech07/leetcode/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/KashTech07/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0415-add-strings](https://github.com/KashTech07/leetcode/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/KashTech07/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/KashTech07/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/KashTech07/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KashTech07/leetcode/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/KashTech07/leetcode/tree/master/0415-add-strings) |
 | [0898-transpose-matrix](https://github.com/KashTech07/leetcode/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/KashTech07/leetcode/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KashTech07/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/KashTech07/leetcode/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/KashTech07/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/KashTech07/leetcode/tree/master/0070-climbing-stairs) |
+| [0415-add-strings](https://github.com/KashTech07/leetcode/tree/master/0415-add-strings) |
 | [1642-water-bottles](https://github.com/KashTech07/leetcode/tree/master/1642-water-bottles) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/KashTech07/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Dynamic Programming

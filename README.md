@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/KashTech07/leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/KashTech07/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/KashTech07/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/KashTech07/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KashTech07/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/KashTech07/leetcode/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/KashTech07/leetcode/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KashTech07/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/KashTech07/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/KashTech07/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## String Matching
 |  |

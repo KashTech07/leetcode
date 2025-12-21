@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/KashTech07/leetcode/tree/master/0948-sort-an-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/KashTech07/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1072-next-greater-node-in-linked-list](https://github.com/KashTech07/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1480-running-sum-of-1d-array](https://github.com/KashTech07/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KashTech07/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KashTech07/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1677-matrix-diagonal-sum](https://github.com/KashTech07/leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/KashTech07/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/KashTech07/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/KashTech07/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/KashTech07/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KashTech07/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |

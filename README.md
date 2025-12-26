@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/KashTech07/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KashTech07/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/KashTech07/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/KashTech07/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/KashTech07/leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Simulation
 |  |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/KashTech07/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KashTech07/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/KashTech07/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/KashTech07/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Binary Search
 |  |
 | ------- |

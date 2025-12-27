@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/KashTech07/leetcode/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/KashTech07/leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/KashTech07/leetcode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/KashTech07/leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/KashTech07/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/KashTech07/leetcode/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/KashTech07/leetcode/tree/master/0459-repeated-substring-pattern) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/KashTech07/leetcode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/KashTech07/leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/KashTech07/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/KashTech07/leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/KashTech07/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/KashTech07/leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/KashTech07/leetcode/tree/master/0523-continuous-subarray-sum) |

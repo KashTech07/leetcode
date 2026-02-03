@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/KashTech07/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/KashTech07/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/KashTech07/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/KashTech07/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/KashTech07/leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KashTech07/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/KashTech07/leetcode/tree/master/0898-transpose-matrix) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/KashTech07/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/KashTech07/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/KashTech07/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/KashTech07/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/KashTech07/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KashTech07/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/KashTech07/leetcode/tree/master/1732-find-the-highest-altitude) |

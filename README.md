@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KashTech07/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1072-next-greater-node-in-linked-list](https://github.com/KashTech07/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/KashTech07/leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2390-removing-stars-from-a-string](https://github.com/KashTech07/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KashTech07/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/KashTech07/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KashTech07/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2390-removing-stars-from-a-string](https://github.com/KashTech07/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/KashTech07/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/KashTech07/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/KashTech07/leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KashTech07/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/KashTech07/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/KashTech07/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2390-removing-stars-from-a-string](https://github.com/KashTech07/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
 |  |
 | ------- |

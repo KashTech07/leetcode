@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/KashTech07/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KashTech07/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/KashTech07/leetcode/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/KashTech07/leetcode/tree/master/0844-backspace-string-compare) |
 | [0907-sum-of-subarray-minimums](https://github.com/KashTech07/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0937-online-stock-span](https://github.com/KashTech07/leetcode/tree/master/0937-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KashTech07/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/KashTech07/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/KashTech07/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0812-rotate-string](https://github.com/KashTech07/leetcode/tree/master/0812-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/KashTech07/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KashTech07/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/KashTech07/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KashTech07/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/KashTech07/leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/KashTech07/leetcode/tree/master/0415-add-strings) |
+| [0844-backspace-string-compare](https://github.com/KashTech07/leetcode/tree/master/0844-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/KashTech07/leetcode/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/KashTech07/leetcode/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KashTech07/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/KashTech07/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/KashTech07/leetcode/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/KashTech07/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/KashTech07/leetcode/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/KashTech07/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KashTech07/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2128-reverse-prefix-of-word](https://github.com/KashTech07/leetcode/tree/master/2128-reverse-prefix-of-word) |

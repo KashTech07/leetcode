@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/KashTech07/leetcode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/KashTech07/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0937-online-stock-span](https://github.com/KashTech07/leetcode/tree/master/0937-online-stock-span) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KashTech07/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1072-next-greater-node-in-linked-list](https://github.com/KashTech07/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/KashTech07/leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Monotonic Stack
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/KashTech07/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/KashTech07/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0812-rotate-string](https://github.com/KashTech07/leetcode/tree/master/0812-rotate-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KashTech07/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/KashTech07/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KashTech07/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/KashTech07/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |

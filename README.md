@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/KashTech07/leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KashTech07/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/KashTech07/leetcode/tree/master/0898-transpose-matrix) |
+| [0904-fruit-into-baskets](https://github.com/KashTech07/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/KashTech07/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0941-valid-mountain-array](https://github.com/KashTech07/leetcode/tree/master/0941-valid-mountain-array) |
 | [0948-sort-an-array](https://github.com/KashTech07/leetcode/tree/master/0948-sort-an-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/KashTech07/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/KashTech07/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KashTech07/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/KashTech07/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/KashTech07/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/KashTech07/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/KashTech07/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/KashTech07/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/KashTech07/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/KashTech07/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0904-fruit-into-baskets](https://github.com/KashTech07/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KashTech07/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KashTech07/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/KashTech07/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |

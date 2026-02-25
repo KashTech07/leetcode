@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/KashTech07/leetcode/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KashTech07/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/KashTech07/leetcode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/KashTech07/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/KashTech07/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/KashTech07/leetcode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/KashTech07/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KashTech07/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/KashTech07/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/KashTech07/leetcode/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/KashTech07/leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/KashTech07/leetcode/tree/master/0205-isomorphic-strings) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/KashTech07/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KashTech07/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/KashTech07/leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/KashTech07/leetcode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/KashTech07/leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/KashTech07/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/KashTech07/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/KashTech07/leetcode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/KashTech07/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/KashTech07/leetcode/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/KashTech07/leetcode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/KashTech07/leetcode/tree/master/0179-largest-number) |

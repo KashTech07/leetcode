@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/KashTech07/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/KashTech07/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/KashTech07/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/KashTech07/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KashTech07/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KashTech07/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/KashTech07/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/KashTech07/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/KashTech07/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KashTech07/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/KashTech07/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2665-minimum-time-to-repair-cars](https://github.com/KashTech07/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 ## Depth-First Search
 |  |

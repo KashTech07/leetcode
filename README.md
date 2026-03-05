@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/KashTech07/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0941-valid-mountain-array](https://github.com/KashTech07/leetcode/tree/master/0941-valid-mountain-array) |
 | [0948-sort-an-array](https://github.com/KashTech07/leetcode/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/KashTech07/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/KashTech07/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/KashTech07/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/KashTech07/leetcode/tree/master/0989-add-to-array-form-of-integer) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/KashTech07/leetcode/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/KashTech07/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0779-k-th-symbol-in-grammar](https://github.com/KashTech07/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [0973-k-closest-points-to-origin](https://github.com/KashTech07/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0989-add-to-array-form-of-integer](https://github.com/KashTech07/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1642-water-bottles](https://github.com/KashTech07/leetcode/tree/master/1642-water-bottles) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/KashTech07/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/KashTech07/leetcode/tree/master/0455-assign-cookies) |
 | [0692-top-k-frequent-words](https://github.com/KashTech07/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/KashTech07/leetcode/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/KashTech07/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/KashTech07/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KashTech07/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KashTech07/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/KashTech07/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KashTech07/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/KashTech07/leetcode/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/KashTech07/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -344,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KashTech07/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/KashTech07/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/KashTech07/leetcode/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/KashTech07/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/KashTech07/leetcode/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
@@ -501,4 +506,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KashTech07/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/KashTech07/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/KashTech07/leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->

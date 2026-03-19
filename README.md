@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/KashTech07/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/KashTech07/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/KashTech07/leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/KashTech07/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Simulation
 |  |
 | ------- |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/KashTech07/leetcode/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/KashTech07/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/KashTech07/leetcode/tree/master/0257-binary-tree-paths) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/KashTech07/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/KashTech07/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/KashTech07/leetcode/tree/master/0231-power-of-two) |
 | [0779-k-th-symbol-in-grammar](https://github.com/KashTech07/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/KashTech07/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Divide and Conquer
 |  |
 | ------- |

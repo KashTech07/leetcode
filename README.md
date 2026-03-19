@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KashTech07/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/KashTech07/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/KashTech07/leetcode/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/KashTech07/leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/KashTech07/leetcode/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/KashTech07/leetcode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/KashTech07/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/KashTech07/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/KashTech07/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/KashTech07/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/KashTech07/leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/KashTech07/leetcode/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/KashTech07/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/KashTech07/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/KashTech07/leetcode/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/KashTech07/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/KashTech07/leetcode/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/KashTech07/leetcode/tree/master/0494-target-sum) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/KashTech07/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |

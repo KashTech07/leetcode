@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/KashTech07/leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/KashTech07/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/KashTech07/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0725-split-linked-list-in-parts](https://github.com/KashTech07/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [1072-next-greater-node-in-linked-list](https://github.com/KashTech07/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/KashTech07/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KashTech07/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |

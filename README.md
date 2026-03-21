@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/KashTech07/leetcode/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KashTech07/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KashTech07/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/KashTech07/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/KashTech07/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/KashTech07/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2390-removing-stars-from-a-string](https://github.com/KashTech07/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/KashTech07/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0989-add-to-array-form-of-integer](https://github.com/KashTech07/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1642-water-bottles](https://github.com/KashTech07/leetcode/tree/master/1642-water-bottles) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/KashTech07/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/KashTech07/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Dynamic Programming
 |  |

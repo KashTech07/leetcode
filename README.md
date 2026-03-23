@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KashTech07/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/KashTech07/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/KashTech07/leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/KashTech07/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/KashTech07/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/KashTech07/leetcode/tree/master/0067-add-binary) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/KashTech07/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KashTech07/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/KashTech07/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/KashTech07/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/KashTech07/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/KashTech07/leetcode/tree/master/0141-linked-list-cycle) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/KashTech07/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/KashTech07/leetcode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/KashTech07/leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/KashTech07/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/KashTech07/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/KashTech07/leetcode/tree/master/0231-power-of-two) |

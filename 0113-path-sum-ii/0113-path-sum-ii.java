@@ -21,13 +21,14 @@ class Solution {
     }
     static void fill(TreeNode root, int k , ArrayList<Integer> curr , List<List<Integer>> ans ,int sum){
         if(root==null) return ;
+        sum = sum+root.val ;
         curr.add(root.val) ;
-        if((root.left==null && root.right==null) && sum+root.val==k){
+        if((root.left==null && root.right==null) && sum==k){
            // curr.add(root.val) ;
             ans.add(new ArrayList<>(curr)) ;
         }
-        fill(root.left , k , curr , ans , sum+root.val) ;
-        fill(root.right , k ,curr , ans , sum+root.val) ;
+        fill(root.left , k , curr , ans , sum) ;
+        fill(root.right , k ,curr , ans , sum) ;
         curr.remove(curr.size()-1) ;
     }
 }

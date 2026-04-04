@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/KashTech07/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/KashTech07/leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KashTech07/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/KashTech07/leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/KashTech07/leetcode/tree/master/0881-boats-to-save-people) |
 | [0898-transpose-matrix](https://github.com/KashTech07/leetcode/tree/master/0898-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/KashTech07/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/KashTech07/leetcode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/KashTech07/leetcode/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/KashTech07/leetcode/tree/master/0767-reorganize-string) |
+| [0860-lemonade-change](https://github.com/KashTech07/leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/KashTech07/leetcode/tree/master/0881-boats-to-save-people) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KashTech07/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/KashTech07/leetcode/tree/master/2816-lexicographically-smallest-palindrome) |

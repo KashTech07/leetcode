@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/KashTech07/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/KashTech07/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/KashTech07/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1834-single-threaded-cpu](https://github.com/KashTech07/leetcode/tree/master/1834-single-threaded-cpu) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KashTech07/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KashTech07/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/KashTech07/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/KashTech07/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/KashTech07/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KashTech07/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1834-single-threaded-cpu](https://github.com/KashTech07/leetcode/tree/master/1834-single-threaded-cpu) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KashTech07/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/KashTech07/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/KashTech07/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/KashTech07/leetcode/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/KashTech07/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/KashTech07/leetcode/tree/master/1046-last-stone-weight) |
+| [1834-single-threaded-cpu](https://github.com/KashTech07/leetcode/tree/master/1834-single-threaded-cpu) |
 ## Merge Sort
 |  |
 | ------- |

@@ -1,58 +1,18 @@
 class Solution {
     public int[] sortedSquares(int[] nums) {
-       ArrayList<Integer> a = new ArrayList<>();
-       ArrayList<Integer> b = new ArrayList<>();
-       int[] ans = new int[nums.length];
-       for(int n : nums){
-        if(n<0){
-            a.add(n);
-        }
-        else{
-            b.add(n);
-        }
-       }
-       if(a.size()==0){
-        for(int i =0 ;i<nums.length ; i++){
-            ans[i]=nums[i]*nums[i];
-        }
-       }
-       else if(b.size()==0){
-        for(int i =0 ;i<nums.length ; i++){
-            ans[i]=nums[i]*nums[i];
-        }
-        Arrays.sort(ans);
-       } 
-       else{
-        Collections.reverse(a);
-        int i =0;
-        int j =0;
-        int x=0 ;
-        while(i<a.size()&&j<b.size()){
-            if (Math.abs(a.get(i)) < b.get(j))
-{
-                int val = a.get(i);
-                ans[x++]=val*val;
-                i++;
+        int i = 0 ;
+        int j = nums.length-1 ; 
+        int[] res = new int[nums.length] ;
+        for(int k = nums.length-1 ; k>=0 ; k--){
+            if(Math.abs(nums[i])>Math.abs(nums[j])){
+                res[k] = nums[i]*nums[i] ;
+                i++ ;
             }
             else{
-                int val = b.get(j);
-                ans[x++]=val*val;
-                j++;
+                res[k] = nums[j]*nums[j] ;
+                j--;
             }
         }
-        while(i<a.size()){
-          int val = a.get(i);
-                ans[x++]=val*val;
-                i++; 
-        }
-         while(j<b.size()){
-           int val = b.get(j);
-                ans[x++]=val*val;
-                j++;
-         }
-       }
-       return ans;
+        return res ;
     }
 }
-   
-   

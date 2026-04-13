@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/KashTech07/leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KashTech07/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KashTech07/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/KashTech07/leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/KashTech07/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/KashTech07/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/KashTech07/leetcode/tree/master/0724-find-pivot-index) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/KashTech07/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/KashTech07/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KashTech07/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/KashTech07/leetcode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KashTech07/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/KashTech07/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/KashTech07/leetcode/tree/master/0767-reorganize-string) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/KashTech07/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KashTech07/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/KashTech07/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/KashTech07/leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/KashTech07/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/KashTech07/leetcode/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/KashTech07/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/KashTech07/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/KashTech07/leetcode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/KashTech07/leetcode/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/KashTech07/leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/KashTech07/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/KashTech07/leetcode/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/KashTech07/leetcode/tree/master/0881-boats-to-save-people) |
@@ -455,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KashTech07/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/KashTech07/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/KashTech07/leetcode/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/KashTech07/leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/KashTech07/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/KashTech07/leetcode/tree/master/0767-reorganize-string) |
 | [0948-sort-an-array](https://github.com/KashTech07/leetcode/tree/master/0948-sort-an-array) |
@@ -481,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/KashTech07/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/KashTech07/leetcode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/KashTech07/leetcode/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/KashTech07/leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/KashTech07/leetcode/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/KashTech07/leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/KashTech07/leetcode/tree/master/0881-boats-to-save-people) |

@@ -14,10 +14,11 @@
  * }
  */
 class Solution {
-    public int idx = 0;
+    public int idx ;
     public TreeNode bstFromPreorder(int[] preorder) {
         int[] inorder = new int[preorder.length] ;
         int n = preorder.length ;
+        idx = 0 ;
         for(int i = 0 ; i<n ;i++){
             inorder[i] = preorder[i] ;
         }

@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/KashTech07/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/KashTech07/leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/KashTech07/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/KashTech07/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/KashTech07/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Simulation
 |  |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/KashTech07/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/KashTech07/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2390-removing-stars-from-a-string](https://github.com/KashTech07/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/KashTech07/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/KashTech07/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## String Matching
 |  |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/KashTech07/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KashTech07/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/KashTech07/leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/KashTech07/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/KashTech07/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Math
 |  |

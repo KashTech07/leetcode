@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KashTech07/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/KashTech07/leetcode/tree/master/2418-sort-the-people) |
 | [2665-minimum-time-to-repair-cars](https://github.com/KashTech07/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/KashTech07/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/KashTech07/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3221-find-the-peaks](https://github.com/KashTech07/leetcode/tree/master/3221-find-the-peaks) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KashTech07/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/KashTech07/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/KashTech07/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2418-sort-the-people](https://github.com/KashTech07/leetcode/tree/master/2418-sort-the-people) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/KashTech07/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KashTech07/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/KashTech07/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sliding Window
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KashTech07/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/KashTech07/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/KashTech07/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/KashTech07/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |

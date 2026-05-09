@@ -1,22 +1,17 @@
 class Solution {
     public int rearrangeCharacters(String s, String target) {
-        HashMap<Character , Integer> map = new HashMap<>() ;
-        int count  = 0 ;
+        int[] freq1 = new int[26] ;
+        int[] freq2 = new int[26] ;
         for(char c : s.toCharArray()){
-            map.put(c , map.getOrDefault(c , 0)+1) ;
+            freq1[c - 'a']++ ;
         }
-        while(!map.isEmpty()){
-            for(char c : target.toCharArray()){
-                if(map.containsKey(c)){
-                    map.put(c , map.get(c)-1) ;
-                    if(map.get(c)==0) map.remove(c) ;
-                }
-                else{
-                    return count  ;
-                }
-            }
-            count++ ;
+        for(char c : target.toCharArray()){
+            freq2[c - 'a']++ ;
         }
-        return count ;
-    }
+        int ans = Integer.MAX_VALUE ;
+        for(char c : target.toCharArray()){
+            ans = Math.min(ans , freq1[c-'a']/freq2[c-'a']) ;
+        }
+        return ans ;
+}
 }

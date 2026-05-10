@@ -14,32 +14,23 @@
  * }
  */
 class Solution {
-    public int idx ;
+    static TreeNode insert(TreeNode root , int val){
+        if(root==null) return null ;
+        if(root.val>val){
+            if(root.left==null) root.left = new TreeNode(val) ;
+            else insert(root.left , val) ;
+        }
+        else{
+            if(root.right == null) root.right = new TreeNode(val) ;
+            else insert(root.right , val) ;
+        }
+        return root ;
+    }
     public TreeNode bstFromPreorder(int[] preorder) {
-        int[] inorder = new int[preorder.length] ;
-        int n = preorder.length ;
-        idx = 0 ;
-        for(int i = 0 ; i<n ;i++){
-            inorder[i] = preorder[i] ;
+        TreeNode root = new TreeNode(preorder[0]) ;
+        for(int i = 1 ; i<preorder.length ; i++){
+            root = insert(root , preorder[i]) ;
         }
-        Arrays.sort(inorder) ;
-        return solve(preorder , inorder , 0 , n-1 ) ;
+        return root ;
     }
-    public TreeNode solve(int[] preorder , int[] inorder , int start , int end){
-        if(start>end) return null ;
-        TreeNode root = new TreeNode(preorder[idx]) ;
-        idx++ ;
-        int i = search(inorder , root.val) ;
-        root.left = solve(preorder , inorder , start ,i-1 ) ;
-         root.right = solve(preorder , inorder , i+1 ,end ) ;
-         return root ;
-    }
-     public int search(int[] arr, int v) {
-        for (int i = 0; i < arr.length; i++) {
-            if (arr[i] == v)
-                return i;
-        }
-        return -1;
-    }
-
 }

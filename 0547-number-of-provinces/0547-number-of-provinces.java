@@ -1,29 +1,33 @@
 class Solution {
     public int findCircleNum(int[][] isConnected) {
-        int n = isConnected.length ;
-        int c= 0 ;
-        boolean[] visited = new boolean[n] ;
-        for(int i = 0 ;i<n ; i++){
-            if(!(visited[i])){
-                bfs(i , visited , isConnected) ;
-                c++ ;
+        ArrayList<ArrayList<Integer>> adj = new ArrayList<>() ;
+        for(int i= 0 ; i<isConnected.length ; i++){
+            adj.add(new ArrayList<>()) ;
+        }
+        for(int i = 0 ; i<isConnected.length ; i++){
+            for(int j = 0 ; j<isConnected.length ; j++){
+                if(isConnected[i][j]==1 && i!=j){
+                    adj.get(i).add(j) ;
+                    adj.get(j).add(i) ;
+                }
+            }
+        }
+        int c=0;
+        int[] vis = new int[isConnected.length] ;
+        for(int i = 0 ; i<isConnected.length ; i++){
+            if(vis[i]==0){
+                 c++ ;
+                dfs(vis , adj , i) ;
             }
         }
         return c ;
     }
-    static void bfs(int i , boolean[] visited , int[][] isConnected){
-        Queue<Integer> q = new LinkedList() ;
-        int n = isConnected.length ;
-        q.add(i) ;
-        while(!q.isEmpty()){
-            int front = q.poll() ;
-            for(int j = 0 ;j<n ; j++){
-                if(isConnected[front][j]==1 && visited[j]==false){
-                    visited[j]=true ; 
-                    q.add(j) ;
-                }
+    static void dfs(int[] vis ,ArrayList<ArrayList<Integer>> adj , int i ){
+        vis[i]=1 ;
+        for(int n: adj.get(i)){
+            if(vis[n]==0){
+                dfs(vis , adj ,n) ;
             }
         }
     }
-
 }

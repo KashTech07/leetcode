@@ -653,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/KashTech07/leetcode/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/KashTech07/leetcode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/KashTech07/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/KashTech07/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/KashTech07/leetcode/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/KashTech07/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/KashTech07/leetcode/tree/master/0897-increasing-order-search-tree) |
@@ -811,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/KashTech07/leetcode/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/KashTech07/leetcode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/KashTech07/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/KashTech07/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/KashTech07/leetcode/tree/master/0841-keys-and-rooms) |
 | [0965-univalued-binary-tree](https://github.com/KashTech07/leetcode/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/KashTech07/leetcode/tree/master/0994-rotting-oranges) |
@@ -853,12 +855,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/KashTech07/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/KashTech07/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/KashTech07/leetcode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/KashTech07/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/KashTech07/leetcode/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/KashTech07/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/KashTech07/leetcode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/KashTech07/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/KashTech07/leetcode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/KashTech07/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->

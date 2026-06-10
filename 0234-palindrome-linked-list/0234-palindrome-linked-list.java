@@ -9,73 +9,34 @@
  * }
  */
 class Solution {
-    // public ListNode reverseList(ListNode head) {
-    //     ListNode prev=null;
-    //     ListNode next=null;
-    //     ListNode curr=head;
-    //     while(curr!=null){
-    //         next=curr.next;
-    //         curr.next=prev;
-    //         prev=curr;
-    //         curr=next;
-    //     }
-    //     head=prev;
-    //     return head;
-    // }
-
     public boolean isPalindrome(ListNode head) {
-    //     if(head==null){
-    //         return false;
-    //     }
-    //     if(head.next==null){
-    //         return true;
-    //     }
-    //     ListNode slow=head;
-    //     ListNode fast=head.next;
-    //     while(fast!=null&&fast.next!=null){
-    //         slow=slow.next;
-    //         fast=fast.next.next;
-    //     }
-    //     ListNode mid=slow.next;
-    //     ListNode fhead=head;
-    //     ListNode shead= reverseList(mid);
-    //     while(shead!=null){
-    //         if(fhead.val!=shead.val){
-    //             return false;
-    //         }
-    //         fhead=fhead.next;
-    //         shead=shead.next;
-    //     }
-    //      return true;}}
-    ListNode slow = head ;
-    ListNode fast = head ;
-    while(fast!=null&&fast.next!=null){
-        slow = slow.next ;
-        fast = fast.next.next ;
-    }
-    ListNode second = reverse(slow);
-    ListNode temp2 = second ;
-    ListNode temp1 = head;
-    while(temp2!=null){
-        if(temp1.val!=temp2.val){
-            return false;
+        ListNode slow = head ;
+        ListNode fast = head ;
+        while(fast!=null && fast.next!=null){
+            slow = slow.next ;
+            fast = fast.next.next ;
         }
-        temp1=temp1.next;
-        temp2 = temp2.next;
+        ListNode second = reverse(slow) ;
+        ListNode s = second ;
+        ListNode temp = head ;
+        while(s!=null)
+{
+    if(s.val!=temp.val) return false ;
+    s = s.next ;
+    temp = temp.next ;
+}  
+      return true ;      
     }
-    return true;}
-
-
-
-    ListNode reverse(ListNode slow){
-        ListNode prev = null ; 
+    static ListNode reverse(ListNode head){
+        ListNode curr = head ;
         ListNode next = null ;
-        ListNode curr = slow;
+        ListNode prev = null  ;
         while(curr!=null){
             next = curr.next ;
-            curr.next = prev;
+            curr.next = prev ;
             prev = curr ;
             curr = next ;
         }
         return prev ;
-    }}
+    }
+}

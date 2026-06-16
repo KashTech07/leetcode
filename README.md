@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/KashTech07/leetcode/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/KashTech07/leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/KashTech07/leetcode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/KashTech07/leetcode/tree/master/0299-bulls-and-cows) |
 | [0318-maximum-product-of-word-lengths](https://github.com/KashTech07/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0383-ransom-note](https://github.com/KashTech07/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KashTech07/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/KashTech07/leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/KashTech07/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/KashTech07/leetcode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/KashTech07/leetcode/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/KashTech07/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/KashTech07/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KashTech07/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/KashTech07/leetcode/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/KashTech07/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KashTech07/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/KashTech07/leetcode/tree/master/0451-sort-characters-by-frequency) |

@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/KashTech07/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KashTech07/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KashTech07/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1552-magnetic-force-between-two-balls](https://github.com/KashTech07/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KashTech07/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1677-matrix-diagonal-sum](https://github.com/KashTech07/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/KashTech07/leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/KashTech07/leetcode/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/KashTech07/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/KashTech07/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/KashTech07/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KashTech07/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1834-single-threaded-cpu](https://github.com/KashTech07/leetcode/tree/master/1834-single-threaded-cpu) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KashTech07/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KashTech07/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/KashTech07/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KashTech07/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/KashTech07/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KashTech07/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/KashTech07/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/KashTech07/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |

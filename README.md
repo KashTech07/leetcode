@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/KashTech07/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1834-single-threaded-cpu](https://github.com/KashTech07/leetcode/tree/master/1834-single-threaded-cpu) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KashTech07/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/KashTech07/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/KashTech07/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KashTech07/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/KashTech07/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/KashTech07/leetcode/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/KashTech07/leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/KashTech07/leetcode/tree/master/0881-boats-to-save-people) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/KashTech07/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/KashTech07/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KashTech07/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/KashTech07/leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KashTech07/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KashTech07/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/KashTech07/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/KashTech07/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2665-minimum-time-to-repair-cars](https://github.com/KashTech07/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 ## Depth-First Search
 |  |

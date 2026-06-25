@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/KashTech07/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/KashTech07/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/KashTech07/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/KashTech07/leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/KashTech07/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/KashTech07/leetcode/tree/master/0621-task-scheduler) |
 | [0654-maximum-binary-tree](https://github.com/KashTech07/leetcode/tree/master/0654-maximum-binary-tree) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/KashTech07/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/KashTech07/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KashTech07/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/KashTech07/leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/KashTech07/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/KashTech07/leetcode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KashTech07/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |

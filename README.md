@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KashTech07/leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/KashTech07/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/KashTech07/leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/KashTech07/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/KashTech07/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/KashTech07/leetcode/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/KashTech07/leetcode/tree/master/0415-add-strings) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/KashTech07/leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/KashTech07/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/KashTech07/leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/KashTech07/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KashTech07/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KashTech07/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/KashTech07/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KashTech07/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/KashTech07/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/KashTech07/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/KashTech07/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KashTech07/leetcode/tree/master/0101-symmetric-tree) |
@@ -789,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KashTech07/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/KashTech07/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/KashTech07/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/KashTech07/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KashTech07/leetcode/tree/master/0101-symmetric-tree) |
@@ -886,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/KashTech07/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/KashTech07/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KashTech07/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KashTech07/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |

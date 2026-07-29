@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/KashTech07/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/KashTech07/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/KashTech07/leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/KashTech07/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/KashTech07/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/KashTech07/leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/KashTech07/leetcode/tree/master/0055-jump-game) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/KashTech07/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/KashTech07/leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/KashTech07/leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/KashTech07/leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/KashTech07/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/KashTech07/leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/KashTech07/leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/KashTech07/leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/KashTech07/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/KashTech07/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/KashTech07/leetcode/tree/master/0200-number-of-islands) |

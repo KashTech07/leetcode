@@ -1,18 +1,18 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> list = new ArrayList<>();
-        ArrayList<Integer> inner = new ArrayList<>();
-        subset(nums , list , 0 , inner);
-        return list ;
+        List<List<Integer>> ans = new ArrayList<>() ;
+        List<Integer> curr = new ArrayList<>() ;
+        fill(ans , curr , nums , 0) ;
+        return ans ;
     }
-    static void subset(int[] arr ,List<List<Integer>> list ,int i , ArrayList<Integer> inner){
-        if(i==arr.length){
-            list.add(new ArrayList(inner));
-            return  ; 
+    static void fill(List<List<Integer>> ans ,List<Integer> curr , int[] nums , int index){
+        if(index==nums.length){
+            ans.add(new ArrayList<>(curr)) ;
+            return  ;
         }
-        subset(arr , list , i+1 , inner);
-        inner.add(arr[i]);
-        subset(arr , list , i+1 , inner);
-        inner.remove(inner.size()-1);
+        curr.add(nums[index]) ;
+        fill(ans , curr , nums , index+1) ;
+        curr.remove(curr.size()-1) ;
+        fill(ans , curr , nums,index+1) ;
     }
 }

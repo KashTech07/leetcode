@@ -839,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/KashTech07/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/KashTech07/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/KashTech07/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/KashTech07/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/KashTech07/leetcode/tree/master/0965-univalued-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KashTech07/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/KashTech07/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -890,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/KashTech07/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/KashTech07/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/KashTech07/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/KashTech07/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/KashTech07/leetcode/tree/master/0965-univalued-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KashTech07/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/KashTech07/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -928,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/KashTech07/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/KashTech07/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/KashTech07/leetcode/tree/master/0841-keys-and-rooms) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/KashTech07/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/KashTech07/leetcode/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/KashTech07/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/KashTech07/leetcode/tree/master/1020-number-of-enclaves) |

@@ -15,20 +15,35 @@
  */
 class Solution {
     public List<Integer> rightSideView(TreeNode root) {
-        Queue<TreeNode> q = new LinkedList<>() ;
-        ArrayList<Integer> list = new ArrayList<>() ;
-        if(root==null) return list;
-        q.add(root) ;
-        while(!q.isEmpty()){
-            int size = q.size() ;
-            for(int i = 0 ; i < size ; i++){
-                TreeNode p = q.poll() ;
-                if(i==size-1) list.add(p.val) ;
-                if(p.left!=null) q.add(p.left) ;
-                if(p.right!=null) q.add(p.right) ;
-               // list.add(p.val) ;
-            }
-        }
-        return list ;
+//         Queue<TreeNode> q = new LinkedList<>() ;
+//         ArrayList<Integer> list = new ArrayList<>() ;
+//         if(root==null) return list;
+//         q.add(root) ;
+//         while(!q.isEmpty()){
+//             int size = q.size() ;
+//             for(int i = 0 ; i < size ; i++){
+//                 TreeNode p = q.poll() ;
+//                 if(i==size-1) list.add(p.val) ;
+//                 if(p.left!=null) q.add(p.left) ;
+//                 if(p.right!=null) q.add(p.right) ;
+//                // list.add(p.val) ;
+//             }
+//         }
+//         return list ;
+//     }
+// }
+List<Integer> ans = new ArrayList<>() ;
+if(root==null) return ans ;
+int level = 1 ; 
+ solve(ans , root , level) ;
+ return ans ;}
+static void solve(List<Integer> ans , TreeNode root , int level){
+    if(root==null) return ;
+    //if(root.left==null && root.right==null) return ;
+    if(level>ans.size()){
+       ans.add(root.val) ;
     }
-}
+   // ans.add(root.val) ;
+    solve(ans , root.right , level+1) ;
+    solve(ans , root.left , level+1) ;
+}}

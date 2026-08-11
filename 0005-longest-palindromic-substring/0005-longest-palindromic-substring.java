@@ -4,7 +4,7 @@ class Solution {
         if (s.length() <= 1) {
             return s;
         }
-        String ans = s.substring(0,1) ;
+        String ans ="";// s.substring(0,1) ;
         for(int i = 0 ; i<s.length()-1 ; i++){
             String odd = expand(s , i , i) ;
             String even = expand(s , i , i+1) ;

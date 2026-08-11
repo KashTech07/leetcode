@@ -15,26 +15,13 @@
  */
 class Solution {
     public int minDepth(TreeNode root) {
-        int ans = find(root);
-        return ans ;
-    }
-    static int find(TreeNode root ){
-        if(root==null) return 0 ;
-        if(root.left==null && root.right==null) return 1 ;
-        int a , b ;
-        if(root.left == null) {
-            a = Integer.MAX_VALUE ;
-        }
-        else{
-            a = find(root.left) ;
-        }
-        if(root.right == null) {
-            b = Integer.MAX_VALUE ;
-        }
-        else{
-            b = find(root.right) ;
-        }
-       
-        return 1+Math.min(a,b) ;
-    }
-}
+        return solve(root) ;}
+        static int solve(TreeNode root){
+            if(root==null) return 0 ;
+            if(root.left==null){
+                return 1+solve(root.right) ;
+            }
+            if(root.right==null){
+                return 1+solve(root.left) ;
+            }
+            return 1+Math.min(solve(root.left),solve(root.right)) ; }}

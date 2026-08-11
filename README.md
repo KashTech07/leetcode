@@ -1023,4 +1023,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/KashTech07/leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/KashTech07/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

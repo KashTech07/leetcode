@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/KashTech07/leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/KashTech07/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/KashTech07/leetcode/tree/master/0621-task-scheduler) |
+| [0652-find-duplicate-subtrees](https://github.com/KashTech07/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KashTech07/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0690-employee-importance](https://github.com/KashTech07/leetcode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/KashTech07/leetcode/tree/master/0692-top-k-frequent-words) |
@@ -743,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/KashTech07/leetcode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/KashTech07/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/KashTech07/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/KashTech07/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KashTech07/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0690-employee-importance](https://github.com/KashTech07/leetcode/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/KashTech07/leetcode/tree/master/0733-flood-fill) |
@@ -835,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/KashTech07/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/KashTech07/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/KashTech07/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/KashTech07/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KashTech07/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/KashTech07/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0690-employee-importance](https://github.com/KashTech07/leetcode/tree/master/0690-employee-importance) |
@@ -889,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/KashTech07/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/KashTech07/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/KashTech07/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/KashTech07/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KashTech07/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/KashTech07/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/KashTech07/leetcode/tree/master/0700-search-in-a-binary-search-tree) |

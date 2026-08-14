@@ -863,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/KashTech07/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/KashTech07/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/KashTech07/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1609-even-odd-tree](https://github.com/KashTech07/leetcode/tree/master/1609-even-odd-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/KashTech07/leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
@@ -921,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/KashTech07/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/KashTech07/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/KashTech07/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1609-even-odd-tree](https://github.com/KashTech07/leetcode/tree/master/1609-even-odd-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/KashTech07/leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -961,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/KashTech07/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/KashTech07/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/KashTech07/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1609-even-odd-tree](https://github.com/KashTech07/leetcode/tree/master/1609-even-odd-tree) |
 | [1631-path-with-minimum-effort](https://github.com/KashTech07/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/KashTech07/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Quickselect

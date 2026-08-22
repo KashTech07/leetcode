@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/KashTech07/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KashTech07/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KashTech07/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1539-kth-missing-positive-number](https://github.com/KashTech07/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/KashTech07/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KashTech07/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-path-with-minimum-effort](https://github.com/KashTech07/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -718,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KashTech07/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/KashTech07/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KashTech07/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/KashTech07/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/KashTech07/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KashTech07/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-path-with-minimum-effort](https://github.com/KashTech07/leetcode/tree/master/1631-path-with-minimum-effort) |

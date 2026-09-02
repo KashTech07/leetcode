@@ -1101,4 +1101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/KashTech07/leetcode/tree/master/0279-perfect-squares) |
 | [0518-coin-change-ii](https://github.com/KashTech07/leetcode/tree/master/0518-coin-change-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KashTech07/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

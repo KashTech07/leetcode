@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-maximum-alternating-subsequence-sum](https://github.com/KashTech07/leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/KashTech07/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KashTech07/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/KashTech07/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/KashTech07/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/KashTech07/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KashTech07/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KashTech07/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KashTech07/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/KashTech07/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/KashTech07/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/KashTech07/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/KashTech07/leetcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2128-reverse-prefix-of-word](https://github.com/KashTech07/leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KashTech07/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1834-single-threaded-cpu](https://github.com/KashTech07/leetcode/tree/master/1834-single-threaded-cpu) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KashTech07/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/KashTech07/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KashTech07/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/KashTech07/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/KashTech07/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -651,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/KashTech07/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0948-sort-an-array](https://github.com/KashTech07/leetcode/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/KashTech07/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/KashTech07/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -672,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/KashTech07/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/KashTech07/leetcode/tree/master/1834-single-threaded-cpu) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/KashTech07/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/KashTech07/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KashTech07/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Merge Sort
 |  |
@@ -1028,6 +1033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KashTech07/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/KashTech07/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/KashTech07/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Geometry
 |  |
 | ------- |

@@ -8,23 +8,41 @@ class Solution {
         map.put('C' , 100) ;
         map.put('D' , 500) ;
         map.put('M' , 1000) ;
-        int ans = 0;
-        for(int i = 0 ; i<s.length() ; i++){
-            int a = map.get(s.charAt(i)) ;
-            if(i<s.length()-1){
-            int b = map.get(s.charAt(i+1));
+//         int ans = 0;
+//         for(int i = 0 ; i<s.length() ; i++){
+//             int a = map.get(s.charAt(i)) ;
+//             if(i<s.length()-1){
+//             int b = map.get(s.charAt(i+1));
             
-                if(a<b){
-                    ans-=a ;
-                }
-                else{
-                    ans+=a;
-                }
-            }
-            else{
-                ans+=a ;
-            }
-        }
-        return ans  ;
+//                 if(a<b){
+//                     ans-=a ;
+//                 }
+//                 else{
+//                     ans+=a;
+//                 }
+//             }
+//             else{
+//                 ans+=a ;
+//             }
+//         }
+//         return ans  ;
+//     }
+// }
+int num = 0;
+int prev = 0;
+
+for(int i = s.length() - 1; i >= 0; i--) {
+
+    int curr = map.get(s.charAt(i));
+
+    if(curr < prev) {
+        num -= curr;
     }
+    else {
+        num += curr;
+    }
+
+    prev = curr;
 }
+
+return num; }}

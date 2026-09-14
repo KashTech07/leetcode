@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/KashTech07/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/KashTech07/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/KashTech07/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KashTech07/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/KashTech07/leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KashTech07/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KashTech07/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/KashTech07/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/KashTech07/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/KashTech07/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KashTech07/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/KashTech07/leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/KashTech07/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/KashTech07/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |

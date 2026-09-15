@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/KashTech07/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/KashTech07/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/KashTech07/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/KashTech07/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/KashTech07/leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KashTech07/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/KashTech07/leetcode/tree/master/2418-sort-the-people) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/KashTech07/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/KashTech07/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/KashTech07/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/KashTech07/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2418-sort-the-people](https://github.com/KashTech07/leetcode/tree/master/2418-sort-the-people) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KashTech07/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/KashTech07/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |

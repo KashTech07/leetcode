@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/KashTech07/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/KashTech07/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/KashTech07/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/KashTech07/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KashTech07/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KashTech07/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/KashTech07/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/KashTech07/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/KashTech07/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/KashTech07/leetcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/KashTech07/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2128-reverse-prefix-of-word](https://github.com/KashTech07/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2129-capitalize-the-title](https://github.com/KashTech07/leetcode/tree/master/2129-capitalize-the-title) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KashTech07/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/KashTech07/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/KashTech07/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/KashTech07/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/KashTech07/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KashTech07/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/KashTech07/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/KashTech07/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -577,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/KashTech07/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/KashTech07/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/KashTech07/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/KashTech07/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/KashTech07/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/KashTech07/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Sorting

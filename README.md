@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/KashTech07/leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/KashTech07/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0318-maximum-product-of-word-lengths](https://github.com/KashTech07/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0322-coin-change](https://github.com/KashTech07/leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/KashTech07/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KashTech07/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/KashTech07/leetcode/tree/master/0410-split-array-largest-sum) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/KashTech07/leetcode/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/KashTech07/leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/KashTech07/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/KashTech07/leetcode/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/KashTech07/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/KashTech07/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/KashTech07/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -1071,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/KashTech07/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/KashTech07/leetcode/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/KashTech07/leetcode/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/KashTech07/leetcode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/KashTech07/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/KashTech07/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0542-01-matrix](https://github.com/KashTech07/leetcode/tree/master/0542-01-matrix) |
@@ -1186,12 +1189,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/KashTech07/leetcode/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/KashTech07/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/KashTech07/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/KashTech07/leetcode/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/KashTech07/leetcode/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/KashTech07/leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/KashTech07/leetcode/tree/master/0518-coin-change-ii) |
 ## Bracket Sequences
 |  |

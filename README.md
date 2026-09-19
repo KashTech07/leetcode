@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/KashTech07/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/KashTech07/leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/KashTech07/leetcode/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/KashTech07/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0819-most-common-word](https://github.com/KashTech07/leetcode/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/KashTech07/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KashTech07/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/KashTech07/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/KashTech07/leetcode/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/KashTech07/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0746-min-cost-climbing-stairs](https://github.com/KashTech07/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/KashTech07/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/KashTech07/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/KashTech07/leetcode/tree/master/1143-longest-common-subsequence) |

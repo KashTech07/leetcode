@@ -1,31 +1,28 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
-        HashMap<Character,Character> map = new HashMap<>() ;
-//          HashMap<Character,Character> map2 = new HashMap<>() ;
-//          for(int i = 0 ; i<s.length() ; i++){
-//             char a = s.charAt(i) ;
-//             char b = t.charAt(i) ;
-//             if(map1.containsKey(a)){
-//                 if(map1.get(a)!=b) return false ;
-//              }
-//              if(map2.containsKey(b)){
-//                 if(map2.get(b)!=a) return false ;
-//              }
-//              map1.put(a,b) ;
-//              map2.put(b,a) ;
-//          }
-//          return true ;
+// HashMap<Character,Character> map = new HashMap<>() ;
+// for(int i = 0 ; i<s.length() ; i++){
+//     char a = s.charAt(i) ;
+//     char b = t.charAt(i) ;
+//     if(map.containsKey(a)){
+//         if(map.get(a)!=b) return false ;
 //     }
+//     else{
+//         if(map.containsValue(b)) return false ;
+//     }
+//     map.put(a,b) ;
 // }
+// return true ; }}
+HashMap<Character , Character> map = new HashMap<>() ;
 for(int i = 0 ; i<s.length() ; i++){
-    char a = s.charAt(i) ;
-    char b = t.charAt(i) ;
-    if(map.containsKey(a)){
-        if(map.get(a)!=b) return false ;
+    char c1 = s.charAt(i) ;
+    char c2 = t.charAt(i) ;
+    if(map.containsKey(c1)){
+        if(map.get(c1)!=c2) return false ;
     }
     else{
-        if(map.containsValue(b)) return false ;
+        if(map.containsValue(c2)) return false ;
     }
-    map.put(a,b) ;
+    map.put(c1,c2) ;
 }
 return true ; }}

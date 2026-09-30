@@ -21,18 +21,55 @@ class Solution {
 //         return beauty;
 //     }
 // }
- int beauty = 0 ;
- for(int i = 0 ; i<s.length() ; i++){
+//  int beauty = 0 ;
+//  for(int i = 0 ; i<s.length() ; i++){
+//     int[] freq = new int[26] ;
+//     for(int j = i ; j<s.length() ; j++){
+//         freq[s.charAt(j)-'a']++ ;}
+    
+//     int maxx = Integer.MIN_VALUE ;
+//     int min = Integer.MAX_VALUE ;
+//     for(int k = 0 ; k<26 ; k++){
+//         if(freq[k]>maxx) maxx = freq[k] ;
+//         if(freq[k] > 0&&freq[k]<min) min = freq[k] ;
+//     }
+//     beauty = beauty + (maxx-min) ;
+//  }
+//  return beauty ; }}
+
+// int ans = 0 ;
+// for(int i = 0 ; i<s.length() ; i++){
+//     int[] freq = new int[26] ;
+//     for(int j = i ; j<s.length() ; j++){
+//         freq[s.charAt(j)-'a']++ ;
+    
+//     // int max = Integer.MIN_VALUE ;
+//     // int min = Integer.MAX_VALUE ;
+//     // for(int n : freq){
+//     //    if(n > 0) {
+//     //                     max = Math.max(max, n);
+//     //                     min = Math.min(min, n);
+//     //                 }
+//     // }
+    
+//     ans = ans+(max-min) ;
+// }}
+// return ans ; }
+// }
+int ans = 0 ;
+for(int i = 0 ; i<s.length() ; i++){
     int[] freq = new int[26] ;
     for(int j = i ; j<s.length() ; j++){
         freq[s.charAt(j)-'a']++ ;
     
-    int maxx = Integer.MIN_VALUE ;
+    int max = Integer.MIN_VALUE ;
     int min = Integer.MAX_VALUE ;
-    for(int k = 0 ; k<26 ; k++){
-        if(freq[k]>maxx) maxx = freq[k] ;
-        if(freq[k] > 0&&freq[k]<min) min = freq[k] ;
+    for(int n : freq){
+        if(n>0){
+            if(n<min) min = n ;
+        }
+        if(n>max) max = n ;
     }
-    beauty = beauty + (maxx-min) ;
- }}
- return beauty ; }}
+    ans = ans+(max-min) ;
+}}
+return ans ; }}

@@ -18,16 +18,35 @@ class Solution {
         //     ans.add(map.get(key));
         // }
         // return ans ; }}
-        HashMap<String , ArrayList<String>> map = new HashMap<>() ;
-        List<List<String>> ans = new ArrayList<>() ;
-        for(int i = 0 ; i<strs.length ; i++){
+        // HashMap<String , ArrayList<String>> map = new HashMap<>() ;
+        // List<List<String>> ans = new ArrayList<>() ;
+        // for(int i = 0 ; i<strs.length ; i++){
+        //     char[] arr = strs[i].toCharArray() ;
+        //     Arrays.sort(arr) ;
+        //     String s = new String(arr) ;
+        //     map.put(s , map.getOrDefault(s ,new ArrayList<String>())) ;
+        //     map.get(s).add(strs[i]) ;
+        // }
+        // for(String k : map.keySet()){
+        //   ans.add(map.get(k)) ;
+        // }
+        // return ans ; }}
+        HashMap<String ,List<String>> map = new HashMap<>() ;
+        List<List<String>> list = new ArrayList<>() ;
+        for(int i = 0 ; i < strs.length ; i++){
             char[] arr = strs[i].toCharArray() ;
             Arrays.sort(arr) ;
             String s = new String(arr) ;
-            map.put(s , map.getOrDefault(s ,new ArrayList<String>())) ;
+            if(map.containsKey(s)){
+               map.get(s).add(strs[i]);
+                map.put(s , map.get(s)) ;
+            }
+            else
+            {map.put(s , new ArrayList<>()) ;
             map.get(s).add(strs[i]) ;
+        }}
+        for(String key : map.keySet()){
+            list.add(map.get(key)) ;
         }
-        for(String k : map.keySet()){
-          ans.add(map.get(k)) ;
-        }
-        return ans ; }}
+        return list ; }}
+        

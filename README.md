@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/KashTech07/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/KashTech07/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/KashTech07/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2027-minimum-moves-to-convert-string](https://github.com/KashTech07/leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/KashTech07/leetcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/KashTech07/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/KashTech07/leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -784,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KashTech07/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/KashTech07/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/KashTech07/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2027-minimum-moves-to-convert-string](https://github.com/KashTech07/leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/KashTech07/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/KashTech07/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/KashTech07/leetcode/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |

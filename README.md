@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/KashTech07/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/KashTech07/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1834-single-threaded-cpu](https://github.com/KashTech07/leetcode/tree/master/1834-single-threaded-cpu) |
+| [1905-count-sub-islands](https://github.com/KashTech07/leetcode/tree/master/1905-count-sub-islands) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/KashTech07/leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/KashTech07/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KashTech07/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -697,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/KashTech07/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/KashTech07/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1677-matrix-diagonal-sum](https://github.com/KashTech07/leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1905-count-sub-islands](https://github.com/KashTech07/leetcode/tree/master/1905-count-sub-islands) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/KashTech07/leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 ## Backtracking
 |  |
@@ -924,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/KashTech07/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/KashTech07/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/KashTech07/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1905-count-sub-islands](https://github.com/KashTech07/leetcode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/KashTech07/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/KashTech07/leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Trie
@@ -1138,6 +1141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/KashTech07/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1609-even-odd-tree](https://github.com/KashTech07/leetcode/tree/master/1609-even-odd-tree) |
 | [1631-path-with-minimum-effort](https://github.com/KashTech07/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1905-count-sub-islands](https://github.com/KashTech07/leetcode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/KashTech07/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Quickselect
 |  |
@@ -1184,6 +1188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/KashTech07/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/KashTech07/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/KashTech07/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1905-count-sub-islands](https://github.com/KashTech07/leetcode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/KashTech07/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |

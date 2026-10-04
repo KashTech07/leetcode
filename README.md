@@ -905,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/KashTech07/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/KashTech07/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KashTech07/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/KashTech07/leetcode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/KashTech07/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/KashTech07/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/KashTech07/leetcode/tree/master/0733-flood-fill) |
@@ -1123,6 +1124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/KashTech07/leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/KashTech07/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KashTech07/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/KashTech07/leetcode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/KashTech07/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/KashTech07/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/KashTech07/leetcode/tree/master/0733-flood-fill) |
@@ -1183,6 +1185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/KashTech07/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/KashTech07/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/KashTech07/leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/KashTech07/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/KashTech07/leetcode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/KashTech07/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/KashTech07/leetcode/tree/master/1020-number-of-enclaves) |
@@ -1197,6 +1200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/KashTech07/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/KashTech07/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/KashTech07/leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/KashTech07/leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/KashTech07/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/KashTech07/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/KashTech07/leetcode/tree/master/0797-all-paths-from-source-to-target) |

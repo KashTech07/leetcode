@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/KashTech07/leetcode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/KashTech07/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/KashTech07/leetcode/tree/master/0695-max-area-of-island) |
+| [0706-design-hashmap](https://github.com/KashTech07/leetcode/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/KashTech07/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/KashTech07/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/KashTech07/leetcode/tree/master/0733-flood-fill) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/KashTech07/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/KashTech07/leetcode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/KashTech07/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0706-design-hashmap](https://github.com/KashTech07/leetcode/tree/master/0706-design-hashmap) |
 | [0725-split-linked-list-in-parts](https://github.com/KashTech07/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [1072-next-greater-node-in-linked-list](https://github.com/KashTech07/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/KashTech07/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KashTech07/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0690-employee-importance](https://github.com/KashTech07/leetcode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/KashTech07/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0706-design-hashmap](https://github.com/KashTech07/leetcode/tree/master/0706-design-hashmap) |
 | [0767-reorganize-string](https://github.com/KashTech07/leetcode/tree/master/0767-reorganize-string) |
 | [0819-most-common-word](https://github.com/KashTech07/leetcode/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/KashTech07/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -948,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/KashTech07/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/KashTech07/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KashTech07/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0706-design-hashmap](https://github.com/KashTech07/leetcode/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/KashTech07/leetcode/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/KashTech07/leetcode/tree/master/0937-online-stock-span) |
 ## Data Stream
@@ -1163,6 +1167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/KashTech07/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0706-design-hashmap](https://github.com/KashTech07/leetcode/tree/master/0706-design-hashmap) |
 ## Binary Search Tree
 |  |
 | ------- |

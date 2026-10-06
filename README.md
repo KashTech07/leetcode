@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/KashTech07/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/KashTech07/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/KashTech07/leetcode/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/KashTech07/leetcode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/KashTech07/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/KashTech07/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [1072-next-greater-node-in-linked-list](https://github.com/KashTech07/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/KashTech07/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/KashTech07/leetcode/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/KashTech07/leetcode/tree/master/0279-perfect-squares) |
+| [0382-linked-list-random-node](https://github.com/KashTech07/leetcode/tree/master/0382-linked-list-random-node) |
 | [0415-add-strings](https://github.com/KashTech07/leetcode/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/KashTech07/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/KashTech07/leetcode/tree/master/0509-fibonacci-number) |
@@ -1298,4 +1300,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KashTech07/leetcode/tree/master/0075-sort-colors) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/KashTech07/leetcode/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/KashTech07/leetcode/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->

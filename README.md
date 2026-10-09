@@ -1322,4 +1322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/KashTech07/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/KashTech07/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->

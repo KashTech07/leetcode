@@ -740,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/KashTech07/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/KashTech07/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KashTech07/leetcode/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/KashTech07/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/KashTech07/leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/KashTech07/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/KashTech07/leetcode/tree/master/0231-power-of-two) |
@@ -757,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KashTech07/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KashTech07/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KashTech07/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/KashTech07/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/KashTech07/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KashTech07/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KashTech07/leetcode/tree/master/0240-search-a-2d-matrix-ii) |

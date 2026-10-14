@@ -15,29 +15,52 @@
  */
 class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-        List<List<Integer>> list = new ArrayList<>() ;
-        Queue<TreeNode> q = new LinkedList<>() ;
-        if(root==null) return list ;
-        q.add(root) ;
-        boolean leftToRight = true ;
-        while(!q.isEmpty()){
-            int size = q.size() ;
-            ArrayList<Integer> l = new ArrayList<>() ;
-                for(int i = 0 ; i<size ; i++){
-                    TreeNode a = q.poll() ;
-                    if(leftToRight){
-                       l.addLast(a.val);
-                }
-                else{
-                    l.addFirst(a.val) ;
-                }
-                if(a.left!=null) q.add(a.left) ;
-                if(a.right!=null) q.add(a.right) ;
-            }
-            list.add(l) ;
-            leftToRight = !leftToRight ;
+//         List<List<Integer>> list = new ArrayList<>() ;
+//         Queue<TreeNode> q = new LinkedList<>() ;
+//         if(root==null) return list ;
+//         q.add(root) ;
+//         boolean leftToRight = true ;
+//         while(!q.isEmpty()){
+//             int size = q.size() ;
+//             ArrayList<Integer> l = new ArrayList<>() ;
+//                 for(int i = 0 ; i<size ; i++){
+//                     TreeNode a = q.poll() ;
+//                     if(leftToRight){
+//                        l.addLast(a.val);
+//                 }
+//                 else{
+//                     l.addFirst(a.val) ;
+//                 }
+//                 if(a.left!=null) q.add(a.left) ;
+//                 if(a.right!=null) q.add(a.right) ;
+//             }
+//             list.add(l) ;
+//             leftToRight = !leftToRight ;
  
+//     }
+//             return list ;
+// }
+// }
+List<List<Integer>> list = new ArrayList<>() ;
+Queue<TreeNode> q = new LinkedList<>() ;
+if(root==null) return list ;
+q.add(root) ;
+ boolean left = true ;
+while(!q.isEmpty()){
+    int size = q.size() ;
+    List<Integer> a = new ArrayList<>() ;
+    for(int i = 0 ; i<size ; i++){
+        TreeNode n = q.poll() ;
+        if(!left){
+            a.addFirst(n.val) ;
+        }
+        else{
+            a.addLast(n.val) ;
+        }
+        if(n.left!=null) q.add(n.left) ;
+        if(n.right!=null) q.add(n.right) ;
     }
-            return list ;
-}
-}
+    left = !left ;
+    list.add(a) ;}
+
+    return list ; }}

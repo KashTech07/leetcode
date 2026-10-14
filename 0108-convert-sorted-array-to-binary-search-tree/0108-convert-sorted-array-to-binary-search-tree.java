@@ -15,15 +15,25 @@
  */
 class Solution {
     public TreeNode sortedArrayToBST(int[] nums) {
-        return make(nums , 0 , nums.length-1) ;
-    }
-    static TreeNode make(int[] arr , int start , int end){
-        if(start>end) return null ;
-        int mid = start + (end-start)/2 ;
-        TreeNode root = new TreeNode(arr[mid]) ;
-        root.left = make(arr , start , mid-1) ;
-        root.right = make(arr , mid+1 , end) ;
-        return root ;
+//         return make(nums , 0 , nums.length-1) ;
+//     }
+//     static TreeNode make(int[] arr , int start , int end){
+//         if(start>end) return null ;
+//         int mid = start + (end-start)/2 ;
+//         TreeNode root = new TreeNode(arr[mid]) ;
+//         root.left = make(arr , start , mid-1) ;
+//         root.right = make(arr , mid+1 , end) ;
+//         return root ;
 
-    }
-}
+//     }
+// }
+return build(nums , 0 , nums.length-1) ;}
+
+static TreeNode build(int[] arr , int start , int end){
+    if(start>end) return null ;
+    int mid = start+(end-start)/2 ;
+    TreeNode root = new TreeNode(arr[mid]) ;
+    root.left = build(arr , start , mid-1) ;
+    root.right = build(arr , mid+1 , end) ;
+    return root ;
+} }
